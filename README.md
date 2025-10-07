@@ -1,7 +1,9 @@
-inspired by Replicube but using Python
+## RePyCube
 
-(recommended to watch in speed 2X)
+# Inspired by Replicube but using Python
 
+----
 
+**Recommended to watch in speed 2X:**
 
-[[RePyCube DEMO](img.youtube.com/vi/i0pwm-OWB-s/0.jpg)](youtube.com/watch?v=i0pwm-OWB-s)
+[![RePyCube DEMO](https://img.youtube.com/vi/i0pwm-OWB-s/0.jpg)](https://www.youtube.com/watch?v=i0pwm-OWB-s)
