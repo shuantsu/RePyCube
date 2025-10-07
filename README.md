@@ -4,4 +4,4 @@ inspired by Replicube but using Python
 
 
 
-[RePyCube DEMO](img.youtube.com/vi/i0pwm-OWB-s/0.jpg)](youtube.com/watch?v=i0pwm-OWB-s)
+[[RePyCube DEMO](img.youtube.com/vi/i0pwm-OWB-s/0.jpg)](youtube.com/watch?v=i0pwm-OWB-s)
